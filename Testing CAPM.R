@@ -2,7 +2,6 @@
 # Testing the CAPM for portfolios
 # Marcos Diniz
 # June-2022
-# Brooks, 2019, p. 742
 
 
 # Simulating data ---------------------------------------------------------
